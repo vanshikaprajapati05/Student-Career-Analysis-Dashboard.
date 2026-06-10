@@ -47,6 +47,7 @@ Identifies strengths, weaknesses, and opportunities for skill development across
 ### 3. Career Path Insights
 
 Explores career preferences, skill profiles, and expected salary trends across different career paths.
+![Alt Text](https://github.com/vanshikaprajapati05/Student-Career-Analysis-Dashboard./blob/c70b9faf34dc5bb4e85cabe1a80a24de88786ed7/Screenshots/Screenshot%202026-06-06%20232007.png)
 
 ### 4. Placement Readiness Analysis
 
