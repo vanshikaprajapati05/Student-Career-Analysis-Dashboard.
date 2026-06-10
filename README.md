@@ -52,6 +52,7 @@ Explores career preferences, skill profiles, and expected salary trends across d
 ### 4. Placement Readiness Analysis
 
 Measures employability readiness through readiness scores and placement status indicators.
+![Alt Text](https://github.com/vanshikaprajapati05/Student-Career-Analysis-Dashboard./blob/79fd539bc14dcb4b8aac0e09bae551e63f9de4a2/Screenshots/Screenshot%202026-06-06%20232040.png)
 
 ### 5. Internship & Experience Insights
 
