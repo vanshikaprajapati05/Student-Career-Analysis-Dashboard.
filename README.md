@@ -42,6 +42,7 @@ Provides a high-level summary of student performance, skill levels, salary expec
 ### 2. Skill Gap Analysis
 
 Identifies strengths, weaknesses, and opportunities for skill development across various competencies.
+![Alt Text](https://github.com/vanshikaprajapati05/Student-Career-Analysis-Dashboard./blob/fd29cdc6ed45a31fa4ae3ac8bf735eb9181971ee/Screenshots/Screenshot%202026-06-06%20231945.png)
 
 ### 3. Career Path Insights
 
