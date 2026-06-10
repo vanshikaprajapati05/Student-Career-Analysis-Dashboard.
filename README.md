@@ -37,7 +37,7 @@ The dataset contains 500 student records with the following attributes:
 ### 1. Overview Dashboard
 
 Provides a high-level summary of student performance, skill levels, salary expectations, and career distribution.
-![Alt Text](![Alt Text]()
+![Alt Text](https://github.com/vanshikaprajapati05/Student-Career-Analysis-Dashboard./blob/d41e03313d7ca73aa6fd6df580d43f594c140c4e/Screenshots/Screenshot%202026-06-06%20231920.png)
 
 ### 2. Skill Gap Analysis
 
