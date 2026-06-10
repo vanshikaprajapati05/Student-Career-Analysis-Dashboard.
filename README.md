@@ -57,6 +57,7 @@ Measures employability readiness through readiness scores and placement status i
 ### 5. Internship & Experience Insights
 
 Analyzes the relationship between internships, projects, certifications, and career readiness.
+![Alt Text](https://github.com/vanshikaprajapati05/Student-Career-Analysis-Dashboard./blob/c892e9b02bcbc8493623f10b11ec7639910e2902/Screenshots/Screenshot%202026-06-06%20232105.png)
 
 ## Key Features
 
