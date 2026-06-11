@@ -170,3 +170,8 @@ git clone https://github.com/vanshikaprajapati05/Student-Career-Analysis-Dashboa
 
 ---
 
+👩‍💻 Author
+
+Vanshika Prajapati — B.Sc. Computer Science
+GitHub · LinkedIn
+
